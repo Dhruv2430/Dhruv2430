@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Panchal</h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
 
-- 🌱 I’m currently learning **Right now, you are learning about web development, React, and backend development. You're also studying frontend development as your current specialization. Would you like to dive deeper into any of these topics?**
+🌱 I’m currently learning web development, React, and backend development, with a specialization in frontend development. I'm also exploring backend technologies to expand my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
